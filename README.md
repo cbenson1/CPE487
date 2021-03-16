@@ -1,6 +1,6 @@
 # CPE487
 ## <br>Take a look at some pictures / videos of my projects!
-### <br><span style="color:red;"> Lab 1: Project 1: LED Decoder </span>
+### <br><span style="color:blue">Lab 1: Project 1: LED Decoder </span>
 <br><img src = "images/Lab1_1.jpg" width ="250">
 <img src = "images/Lab1_2.jpg" width ="250">
 ### <br> Lab 2: Four-Digit Hex Counter
@@ -8,7 +8,7 @@
 <br><img src = "images/Lab2_1.JPG" width ="250">
 <img src = "images/Lab2_2.JPG" width ="250">
 ### <br> Lab 3: Bouncing Ball
-<br> Part 1: Bouncing Ball with original code --- Part 2: Ball with modified code 
+<br> <span style="color:blue"> Part 1: Bouncing Ball with original code --- Part 2: Ball with modified code </span>
 <br><img src = "images/Lab3_2.gif" width ="300">
 <img src = "images/Lab3_3.gif" width ="300">
 ### <br> Lab 4: Hex Calculator
