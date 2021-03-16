@@ -12,4 +12,16 @@
 <br><img src = "images/Lab3_2.gif" width ="300">
 <img src = "images/Lab3_3.gif" width ="300">
 ### <br> Lab 4: Hex Calculator
-<br> Part 1: Bouncing Ball with original code --- Part 2: Ball with modified code
+<br> Part 1: Original Hex Calculator code [96 + 8A = 120]
+<br><img src = "images/Lab4_11.JPG" width ="250">
+<img src = "images/Lab4_12.JPG" width ="250">
+<img src = "images/Lab4_13.JPG" width ="250">
+<br> Part 2: Modified code: Addition without leading zeroes [12 + 895 = 8A7]
+<br><img src = "images/Lab4_21.JPG" width ="250">
+<img src = "images/Lab4_22.JPG" width ="250">
+<img src = "images/Lab4_23.JPG" width ="250">
+<br> Part 3: Modified code: Subtraction (also without leading zeroes) [89 - 12 = 77]
+<br><img src = "images/Lab4_31.JPG" width ="250">
+<img src = "images/Lab4_32.JPG" width ="250">
+<img src = "images/Lab4_33.JPG" width ="250">
+
