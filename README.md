@@ -8,6 +8,8 @@
 <br><img src = "images/Lab2_1.JPG" width ="250">
 <img src = "images/Lab2_2.JPG" width ="250">
 ### <br> Lab 3: Bouncing Ball
-<br> Part 1: Bouncing Ball with original code -- Part 2: Ball with modified code 
+<br> Part 1: Bouncing Ball with original code --- Part 2: Ball with modified code 
 <br><img src = "images/Lab3_2.gif" width ="300">
 <img src = "images/Lab3_3.gif" width ="300">
+### <br> Lab 4: Hex Calculator
+<br> Part 1: Bouncing Ball with original code --- Part 2: Ball with modified code
