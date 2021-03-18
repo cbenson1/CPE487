@@ -24,7 +24,7 @@
 <br><img src = "images/Lab4_31.JPG" width ="250">
 <img src = "images/Lab4_32.JPG" width ="250">
 <img src = "images/Lab4_33.JPG" width ="250">
-### <br>Lab 5: DAC Siren
+### <br>Lab 5: DAC Siren [images / no sound]
 <br> Part 1: Original code of wailing siren - - - - - Part 2: Modified code with controllable siren via button / switches
 <br><img src = "images/Lab5_1.JPG" width ="300">
 <img src = "images/Lab5_2.JPG" width ="300">
