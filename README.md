@@ -29,4 +29,8 @@
 <br><img src = "images/Lab5_1.JPG" width ="300">
 <img src = "images/Lab5_2.JPG" width ="300">
 ### <br>Lab 6: Pong Video Game
+<br> Part 1: Original code
 <br><img src = "images/Lab6_11.gif" width ="300">
+<br> Part 2: modified
+<br><img src = "images/Lab6_21.gif" width ="300">
+<img src = "images/Lab6_22.gif" width ="300">
